@@ -5,7 +5,7 @@ xCross will create three binaries, for Windows, OSX (Universal) and Linux with n
 To install :
 
 - install haXe + Neko from http://haxe.org (~~needs to be 1.0~~ never mind, master seems to be ported to haXe 3.0)
-- run "haxelib install xcross" (may require 1.0 if you aren't building from source... like a pro)
+- run "haxelib git xcross https://github.com/BushsHaxs/xcross.git" (may require 1.0 if you aren't building from source... like a pro)
 
 To run :
 
